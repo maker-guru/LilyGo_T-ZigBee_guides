@@ -32,3 +32,15 @@ pinMode(0, OUTPUT);
 digitalWrite(0, HIGH);
 ```
 should be sufficient.
+
+**TlsrComSWireWriter**
+
+[TlsrComSwireWriter](https://github.com/pvvx/TlsrComSwireWriter) can be used to burn firmware of the TLSR8258.  
+
+The TlsrComSwireWriter simulates Telink SWIRE on a com port. 
+
+![SCH](https://github.com/pvvx/TlsrComSwireWriter/blob/master/schematicc.gif)
+
+
+
+
